@@ -15,8 +15,10 @@ I started research in 2016. I'm a former structural-biologist wannabe and a curr
 
 Education
 ======
-**Ph.D.** in BioEngineering (Bioinformatic track), King Abdullah University of Science and Technology, Saudi Arabia, 2020-now 
+**Ph.D.** in BioEngineering (Bioinformatic track), King Abdullah University of Science and Technology, Saudi Arabia, 2020-now
+
 **M.S.** in Environmental Science and Technology, King Abdullah University of Science and Technology, Saudi Arabia, 2018-2020
+
 **B.S.** in Bioinformatics, Southern University of Science and Technology, Shenzhen, China, 2014-2018
 
 Experience
