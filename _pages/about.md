@@ -17,9 +17,9 @@ Education
 ======
 **Ph.D.** in BioEngineering (Bioinformatic track), King Abdullah University of Science and Technology, Saudi Arabia, 2020-now
 
-**M.S.** in Environmental Science and Technology, King Abdullah University of Science and Technology, Saudi Arabia, 2018-2020
+**M.Sc.** in Environmental Science and Technology, King Abdullah University of Science and Technology, Saudi Arabia, 2018-2020
 
-**B.S.** in Bioinformatics, Southern University of Science and Technology, Shenzhen, China, 2014-2018
+**B.Sc.** in Bioinformatics, Southern University of Science and Technology, Shenzhen, China, 2014-2018
 
 Experience
 ======
