@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Southern University of Science and Technology, 2018
+* M.S. in King Abdullah University of Science and Technology, 2020
+* Ph.D in King Abdullah University of Science and Technology, 2025 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Visiting Scholar: Research Assistant
+  * College of Biological Sciences, University of Minnesota, Twin City
+  * Duties included: Bioinformatic workflow development
+  * Supervisor: Professor Yue Chen
   
-Skills
+Computational skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Operating Systems: Linux • Windows • Mac OS
+* Scripting, Programming & Analytics: Bash • R • tidyverse • Python • Perl
+• JAVA • MATLAB  
+* Bioinformatic Stack: Genomics data processing and analyses • Metagenomics data processing and analyses • Transcriptomics data processing and analyses • Proteomics data analysis • Statistical analyses • Multi-omic data integration • Genome-wide association studies (GWAS) • RNA-seq analyses • IQ-Tree/Molecular clock modeling • Single-cell genomic analyses • Gene/Genome ontology annotation analyses • Bioconda/Miniconda
+* Productivity Stack: git code version control • LATEX2εtypesetting • Vim text editor • oarsub and slurm High-Performance Computing (HPC) job scheduler • Microsoft Office
+
+Experimental skills
+======
+* Molecular biology & biochemistry: Real-time quantitative PCR • Mutagenesis • RNA interference • Inter simple sequence repeat analysis • Isoenzyme analysis • DNA/RNA/Protein extraction & purification of bacteria/plant/mammalian cells
+* Environmental science & technology: Water quality analysis • Flow cytometry • Biomass filtration in wastewater treatment • Viral isolation from wastewater • Nucleic acid extraction • High-throughput sequencing & library preparation • Long-read sequencing & library preparation
+* Structual biology: Protein crystallization • Synchrotron data collection • Data processing and structure determination (HKL2000, Phenix, CCP4i, Coot, PyMOL)
+* Cell biology: Cell culture and transfection • Immunofluorescence • Karyotype detection • Cell cloning & differentiation
+
+Languages
+======
+English (Excellent) Chinese (National Language) Japanese (Fluent)
 
 Publications
 ======
@@ -53,7 +58,13 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Grants and Awards
+======
+* Best Poster Award, MEWE2021, October 2021, Delft, Netherlands
+* BESE Dean’s Award, BESE, KAUST, December 2022, Thuwal, Saudi Arabia 
+* Ph.D. Progression Award, KAUST, October 2022 – Now, Thuwal, Saudi Arabia
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
