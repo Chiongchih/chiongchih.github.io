@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Talk on CBRC2022"
+excerpt: "Presenting my research at CBRC2022 and meeting PRof. Jill Banfiled.<br/><img src='/images/CBRC2022.jpg' alt='Presenting at CBRC2022'><br/><img src='/images/CBRC2022_jill.jpeg' alt='With Prof. Jill Banfield'>>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In 2022, I had the opportunity to present my research at the Computational Biology Research Center (CBRC) conference. It was an enriching experience to share my findings on antimicrobial resistance dynamics and receive feedback from esteemed colleagues. One of the highlights was meeting Prof. Jill Banfield, a renowned scientist in the field of metagenomics and environmental genomics.
