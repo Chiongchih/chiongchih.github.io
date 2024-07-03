@@ -1,6 +1,6 @@
 ---
 title: "Talk on CBRC2022"
-excerpt: "Presenting my research at CBRC2022 and meeting PRof. Jill Banfiled.<br/><img src='/images/CBRC2022.jpg' alt='Presenting at CBRC2022'><br/><img src='/images/CBRC2022_jill.jpeg' alt='With Prof. Jill Banfield'>>"
+excerpt: "Presenting my research at CBRC2022 and meeting Prof. Jill Banfiled.<br/><img src='/images/CBRC2022.jpg' alt='Presenting at CBRC2022'><br/><img src='/images/CBRC2022_jill.jpeg' alt='With Prof. Jill Banfield'>>"
 collection: portfolio
 ---
 
