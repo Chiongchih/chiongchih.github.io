@@ -65,6 +65,11 @@ Grants and Awards
 * BESE Dean’s Award, BESE, KAUST, December 2022, Thuwal, Saudi Arabia 
 * Ph.D. Progression Award, KAUST, October 2022 – Now, Thuwal, Saudi Arabia
 
-Service and leadership
+Reviewers for journals
 ======
-* Currently signed in to 43 different slack teams
+* Scientific Reports (2024-now)
+* Environmental Science and Technology (2023-now)
+* ACS Environmental Science and Technology Water (2023-now)
+* Microbial Ecology (2023-now)
+* Journal of Hazardous Materials (2022-now)
+
