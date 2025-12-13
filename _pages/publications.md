@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
   You can also find my full publication list on my [Google Scholar profile](https://scholar.google.com/citations?user=AonEi6kAAAAJ&hl=en)
 
 ## Selected Publications
