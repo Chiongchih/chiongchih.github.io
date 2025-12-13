@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an environmental bioinformatician working with water engineers to investigate the dissemination of pathogens and antimicrobial resistome from the view of One-Health. I'm interested in the broader application of high-throughput sequencing analyses with the multi-omics approach for the water industry and public health. I want to help water and environmental professionals and public health works navigate these new tools for water treatment and reuse.
+I am an environmental bioinformatician working with water engineers to investigate the dissemination of pathogens and antimicrobial resistome from the view of One-Health. I'm interested in the broader application of deep learning and environmental bioinformatics with the multi-omics approach for the water industry and public health. I want to help water and environmental professionals and public health works navigate these new tools for water treatment and reuse.
 
 I value teamwork, communication and the research community. I love collaborating, consulting with mentoring, and teaching. 
 
@@ -15,13 +15,13 @@ I started research in 2016. I'm a former structural-biologist wannabe and a curr
 
 Education
 ======
-**Ph.D.** in BioEngineering (Bioinformatic and machine learning track), King Abdullah University of Science and Technology, Saudi Arabia, 2020-2025
+* **Ph.D.** in BioEngineering (Bioinformatic and machine learning track), King Abdullah University of Science and Technology, Saudi Arabia, 2020-2025
 
-**M.Sc.** in Environmental Science and Technology, King Abdullah University of Science and Technology, Saudi Arabia, 2018-2020
+* **M.Sc.** in Environmental Science and Technology, King Abdullah University of Science and Technology, Saudi Arabia, 2018-2020
 
-**B.Sc.** in Bioinformatics, Southern University of Science and Technology, Shenzhen, China, 2014-2018
+* **B.Sc.** in Bioinformatics, Southern University of Science and Technology, Shenzhen, China, 2014-2018
 
-Experience
+Work Experience
 ======
 * **Visiting scholar**, University of Minnesota, Minneapolis, United States (2017-2018)
   *(Working with Prof. Yue Chen)*
@@ -37,6 +37,14 @@ Academic service
   Environmental Science and Technology (2023-now)
   ACS Environmental Science and Technology Water (2023-now) Microbial Ecology (2023-now)
   Journal of Hazardous Materials (2022-now)
+
+
+Teaching and Mentorship experiences
+======
++ **Mentor** Bioscience Master Program (KAUST, 2025)
++ **Lecturer** EnSE314-Public Health Microbiology II (KAUST, 2023 Spring, 2025 Fall)
++ **Research supervisor** KAUST WISE internship (KAUST, 2025 Summer)
++ **Mentor** KAUST Gifted student program (KSIP) (KAUST, 2024 Spring)
 
 
 Grants and Awards
