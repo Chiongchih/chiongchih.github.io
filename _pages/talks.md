@@ -8,7 +8,7 @@ author_profile: true
 ## 🗣 Oral Presentations
 
 **Establishing a national defense strategy through epidemiology wastewater surveillance at the airport**
-<br><i>第十六届资金高层论坛>di>
+<br><i>第十六届紫金高层论坛>di>
 <br>December 2025 · 南京, 中国
 
 **Establishing a national defense strategy through epidemiology wastewater surveillance at the airport**
