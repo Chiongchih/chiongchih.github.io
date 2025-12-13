@@ -8,6 +8,18 @@ author_profile: true
 ## 🗣 Oral Presentations
 
 **Establishing a national defense strategy through epidemiology wastewater surveillance at the airport**
+<br><i>第十六届资金高层论坛>di>
+<br>December 2025 · 南京, 中国
+
+**Establishing a national defense strategy through epidemiology wastewater surveillance at the airport**
+<br><i>第二届浙江拱墅国际人才会>di>
+<br>October 2025 · 杭州, 中国
+
+**Establishing a national defense strategy through epidemiology wastewater surveillance at the airport**
+<br><i>2025福建海外人才创新创业周</i>
+<br>August 2025 · 福州, 中国
+
+**Establishing a national defense strategy through epidemiology wastewater surveillance at the airport**
 <br><i>8th ISFEV Conference</i>
 <br>June 2024 · Tokyo, Japan
 
