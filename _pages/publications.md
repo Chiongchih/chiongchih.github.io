@@ -6,7 +6,6 @@ author_profile: true
 toc: true
 ---
 
-{% if author.googlescholar %}
   You can also find my full publication list on my [Google Scholar profile](https://scholar.google.com/citations?user=AonEi6kAAAAJ&hl=en)
 
 ## Selected Publications
