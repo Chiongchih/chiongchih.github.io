@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
+toc:true
 ---
 
 {% if author.googlescholar %}
