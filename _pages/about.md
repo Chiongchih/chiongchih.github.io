@@ -41,10 +41,10 @@ Academic service
 
 Grants and Awards
 ======
-**Saudi NIH Research Grant** 500,000 SAR Saudi National Institute of Health, May 2025 – May 2026, Saudi Arabia
-**Ph.D. Progression Award** KAUST, October 2022 – June 2025, Saudi Arabia 
-**Ph.D. full scholarship** KAUST, June 2020 – June 2025, Saudi Arabia
-**BESE Dean’s Award** BESE, KAUST, December 2022, Saudi Arabia 
-**Master full scholarship** KAUST, August 2018 – June 2020, Saudi Arabia 
-**Best Poster Award** MEWE2021, October 2021, Netherland
-**Outstanding Student Award** SUSTech, 2018, China
++ **Saudi NIH Research Grant** 500,000 SAR Saudi National Institute of Health, May 2025 – May 2026, Saudi Arabia
++ **Ph.D. Progression Award** KAUST, October 2022 – June 2025, Saudi Arabia 
++ **Ph.D. full scholarship** KAUST, June 2020 – June 2025, Saudi Arabia
++ **BESE Dean’s Award** BESE, KAUST, December 2022, Saudi Arabia 
++ **Master full scholarship** KAUST, August 2018 – June 2020, Saudi Arabia 
++ **Best Poster Award** MEWE2021, October 2021, Netherland
++ **Outstanding Student Award** SUSTech, 2018, China
