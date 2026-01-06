@@ -7,11 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an environmental bioinformatician working with water engineers to investigate the dissemination of pathogens and antimicrobial resistome from the view of One-Health. I'm interested in the broader application of deep learning and environmental bioinformatics with the multi-omics approach for the water industry and public health. I want to help water and environmental professionals and public health works navigate these new tools for water treatment and reuse.
+I am an environmental bioinformatician developing **wastewater-based surveillance and intervention frameworks** for public health. My work integrates **metagenomics, metatranscriptomics, culture-enabled genomics, and deep learning** as equally important investigation approaches to characterize pathogens and antimicrobial resistance (AMR) across the human–environment interface.
 
-I value teamwork, communication and the research community. I love collaborating, consulting with mentoring, and teaching. 
+My research program focuses on two linked questions: (1) how AMR and pathogen risks are **introduced across borders** (e.g., through travel-associated wastewater signals), and (2) how these risks are **maintained or amplified locally** by ecological and infrastructural factors. Beyond detection, I aim to produce **actionable outputs**: risk stratification models, early-warning indicators, interpretable attribution signals, and surveillance designs that can be implemented in water systems and public health workflows.
 
-I started research in 2016. I'm a former structural-biologist wannabe and a current bioinformatician now. Interestingly, I worked on the same topic: Antimicrobial resistance (AMR) for both of my time as being structural-biologist and environmental bioinformatician. 
+I care about reproducible, scalable analytics and transparent communication. I enjoy interdisciplinary teamwork, mentoring trainees, and collaborating with engineers and public health stakeholders to turn high-dimensional multi-omics data into decisions and interventions.
+
+Research focus
+======
+- Environmental bioinformatics for wastewater-based public health decision-making (One Health)
+- Quantifying **cross-border importation** vs **local amplification** of AMR and pathogens
+- Deep learning + genomics for prediction, attribution, and risk prioritization
+- Translating surveillance into **intervention-ready strategies** (monitoring design, decision thresholds, operational guidance)
 
 Education
 ======
