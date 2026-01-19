@@ -56,6 +56,7 @@ Teaching and Mentorship experiences
 
 Grants and Awards
 ======
++ **ES&T Excellence in Review Award** American Chemical Society, 2025, United States
 + **Saudi NIH Research Grant** 500,000 SAR Saudi National Institute of Health, May 2025 – May 2026, Saudi Arabia
 + **Ph.D. Progression Award** KAUST, October 2022 – June 2025, Saudi Arabia 
 + **Ph.D. full scholarship** KAUST, June 2020 – June 2025, Saudi Arabia
