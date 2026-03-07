@@ -38,6 +38,7 @@ Work Experience
 Academic service
 ======
 * **Reviewer**
+  Water Research (2026-now)
   Nature Communications (2025-now)
   BMC Microbiology (2025-now)
   Scientific Reports (2024-now)
