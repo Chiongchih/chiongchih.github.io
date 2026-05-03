@@ -8,6 +8,11 @@ author_profile: true
 ## 🗣 Oral Presentations
 
 **Wastewater surveillance unveils the impact of mass gatherings on antimicrobial resistance after the COVID-19 pandemic in Saudi Arabia**
+<br><i>TargetAMR</i>
+<br>April 2026 · Virtual Conference
+<br>[🎥 Watch Video](https://www.youtube.com/watch?v=Stmz5m-AYR0&t=110s)
+
+**Wastewater surveillance unveils the impact of mass gatherings on antimicrobial resistance after the COVID-19 pandemic in Saudi Arabia**
 <br><i>第十六届紫金高层论坛</i>
 <br>December 2025 · 南京, 中国
 
