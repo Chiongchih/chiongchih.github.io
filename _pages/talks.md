@@ -12,17 +12,9 @@ author_profile: true
 <br>April 2026 · Virtual Conference
 <br>[🎥 Watch Video](https://www.youtube.com/watch?v=Stmz5m-AYR0&t=110s)
 
-**Wastewater surveillance unveils the impact of mass gatherings on antimicrobial resistance after the COVID-19 pandemic in Saudi Arabia**
-<br><i>第十六届紫金高层论坛</i>
-<br>December 2025 · 南京, 中国
-
-**Wastewater surveillance unveils the impact of mass gatherings on antimicrobial resistance after the COVID-19 pandemic in Saudi Arabia**
-<br><i>第二届浙江拱墅国际人才会</i>
-<br>October 2025 · 杭州, 中国
-
-**Wastewater surveillance unveils the impact of mass gatherings on antimicrobial resistance after the COVID-19 pandemic in Saudi Arabia**
-<br><i>2025福建海外人才创新创业周</i>
-<br>August 2025 · 福州, 中国
+**MobiGLM: A Genomic Language Model for Mobility-Aware AMR Risk Inference**
+<br><i>2026 Global Youth AI Forum at CUHK-Shenzhen</i>
+<br>March 2026 · Shenzhen, China
 
 **Establishing a national defense strategy through epidemiology wastewater surveillance at the airport**
 <br><i>8th ISFEV Conference</i>
