@@ -30,11 +30,13 @@ Education
 
 Work Experience
 ======
+* **Research fellow**, Nanyang Technological University, Singapore (2026-now)
+  *(Working with Prof. Xiaole Yin)*
+* **Postdoctoral researcher**, King Abdullah University of Science and Technology, Saudi Arabia (2025-2026)
+  *(Working with Prof. Pei-Ying Hong)*
 * **Visiting scholar**, University of Minnesota, Minneapolis, United States (2017-2018)
   *(Working with Prof. Yue Chen)*
-* **Postdoctoral researcher**, King Abdullah University of Science and Technology, Saudi Arabia (2025-now)
-  *(Working with Prof. Pei-Ying Hong)*
-
+  
 Academic service
 ======
 * **Reviewer**
