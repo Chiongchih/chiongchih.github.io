@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Changzhi Wang"
   avatar           : "Myprofile_2025.jpeg"
-  bio              : "Ph.D., KAUST, Jeddah"
-  location         : "Makkah. Saudi Arabia"
+  bio              : "Ph.D., NTU, Singapore"
+  location         : "Singapore"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=AonEi6kAAAAJ&hl=en"
-  email            : changzhi.wang[at]kaust.edu.sa
+  email            : changzhi.wang[at]ntu.edu.sg
   researchgate     : "https://www.researchgate.net/profile/Changzhi-Wang" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
