@@ -1,6 +1,6 @@
 ---
 title: "Attendance at EDAR8"
-excerpt: "Presenting my research at the 8th International Conference on Environmental Dimensions of Antibiotic Resistance (EDAR8).<br/><img src='/images/EDAR8.jpg'>"
+excerpt: "Presenting my research at the 8th International Conference on Environmental Dimensions of Antibiotic Resistance (EDAR8).<br/><img src='/images/EDAR2026.jpg'>"
 collection: portfolio
 ---
 
