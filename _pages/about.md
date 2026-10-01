@@ -39,14 +39,19 @@ Work Experience
   
 Academic service
 ======
-* **Reviewer**
-  Water Research (2026-now)
-  Nature Communications (2025-now)
-  BMC Microbiology (2025-now)
-  Scientific Reports (2024-now)
-  Environmental Science and Technology (2023-now)
-  ACS Environmental Science and Technology Water (2023-now) Microbial Ecology (2023-now)
-  Journal of Hazardous Materials (2022-now)
+* **Conference Service**
+  * Session Co-Chair, EDAR8, 6 August 2026  
+    Session S4.2A: Environmental Engineering, Diagnostics and Devices
+
+* **Peer Review**
+  * Water Research (2026–present)
+  * Nature Communications (2025–present)
+  * BMC Microbiology (2025–present)
+  * Scientific Reports (2024–present)
+  * Environmental Science & Technology (2023–present)
+  * ACS ES&T Water (2023–present)
+  * Microbial Ecology (2023–present)
+  * Journal of Hazardous Materials (2022–present)
 
 
 Teaching and Mentorship experiences
