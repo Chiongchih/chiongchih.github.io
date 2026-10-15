@@ -44,7 +44,7 @@ Academic service
     Session S4.2A: Environmental Engineering, Diagnostics and Devices
 
 * **Peer Review**
-  * Contaminant (2026–present)
+  * Biocontaminant (2026–present)
   * Microbiome (2026–present)
   * Water Research (2026–present)
   * Nature Communications (2025–present)
